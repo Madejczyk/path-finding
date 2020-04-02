@@ -1,13 +1,13 @@
 {
-  "name": "ShortPath",
+  "name": "shortpath",
   "version": "0.0.1",
   "author": "Jakub Madejczyk",
   "description": "Short Path",
   "dependencies": {
-    "heap": "^0.2.6",
-    "prop-types": "^15.6.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "heap": "0.2.6",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
     "babel": "^6.23.0",
@@ -16,7 +16,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "webpack": "^3.7.1"
+    "webpack": "^4.42.1"
   },
   "scripts": {
     "start": "webpack --watch",
